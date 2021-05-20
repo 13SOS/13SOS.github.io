@@ -1,8 +1,8 @@
 var music = {
    overworld: new Howl({
       src: [
-         "songs.mp3",
-	 "songs.ogg"
+         "song.mp3",
+	 "song.ogg"
       ]
    })
 }
